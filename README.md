@@ -29,3 +29,4 @@ Supplied test files and where they are used in the above bullet points:
 1. "Export Order History-2022-12-26 12_30_35.xlsx"
 2. "Export Order History-2022-12-26 12_30_35.csv"
 6. "Export Order History Processed Summary-2022-12-24-01.csv" OR "Export Order History Processed-2022-12-24-02.csv"
+7. "Export Order History Processed Summary-2022-12-24-01.xlsx" OR "Export Order History Processed-2022-12-24-02.xlsx"
