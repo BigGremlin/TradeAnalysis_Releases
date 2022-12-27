@@ -2,7 +2,7 @@
 
 This repository is for the purposes of distributing binaries for my "TradeAnalysis" report maintained in the Superalgos project.
 
-The source code and further instructions can be accessed here:
+The source code and further information can be accessed here:
 
 https://github.com/BigGremlin/Superalgos/tree/develop/Reports/RnD/TradeAnalysis
 
@@ -22,5 +22,10 @@ Walkthrough:
 4. It will generate the report as either a daily summary or a trade by trade detailed report. You specify which one you want by using the '-s' flag.
 5. You will also need to enter your wallet ballance at the starting date for your date range for BTC and USDT.
 6. The program at the moment outputs the report to standard out. You can redirect this to a .CSV file with the redirection symbol '>'
+7. You can then load these report into Excel for further decorating like setting the Title cells to wrap and USDT cells to Currency ($).
 
+Supplied test files and where they are used in the above bullet points:
 
+1. "Export Order History-2022-12-26 12_30_35.xlsx"
+2. "Export Order History-2022-12-26 12_30_35.csv"
+6. "Export Order History Processed Summary-2022-12-24-01.csv" OR "Export Order History Processed-2022-12-24-02.csv"
