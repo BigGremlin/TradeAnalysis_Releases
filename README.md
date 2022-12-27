@@ -1,6 +1,6 @@
 # TradeAnalysis_Releases
 
-This repository is for the purposes of distributing binaries for my "TradeAnalysis" report maintained in the Superalgos project.
+This repository is for the purposes of distributing binaries (Windows 10 .EXE and .DLLs) for my "TradeAnalysis" report maintained in the Superalgos project. You can see the releases in the column to the right of this README.
 
 The source code and further information can be accessed here:
 
