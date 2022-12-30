@@ -4,7 +4,7 @@ This repository is for the purposes of distributing binaries (Windows 10 .EXE an
 
 The source code and further information can be accessed here:
 
-https://github.com/BigGremlin/Superalgos/tree/develop/Reports/RnD/TradeAnalysis
+https://github.com/Superalgos/Superalgos/tree/develop/Reports/RnD/TradeAnalysis
 
 ```
 Usage:
